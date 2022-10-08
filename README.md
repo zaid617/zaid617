@@ -1,12 +1,6 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanv33&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-24" /> </p>
-
-<p align="center" >
-  <img height=150px src="https://i.pinimg.com/originals/5d/f3/4b/5df34b95ee180309a51941e1f74542c3.gif" />
-</p>
  
 <p align="center" >
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Zaid;A+passionate+MERN+Stack+Web+Developer;Open+Source+Contributer;Where+there+is+Code%2C+There+is+Life;I+believe%2C+It's+never+over+till+it's+over." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=8DBCCC&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Zaid;A+passionate+MERN+Stack+Web+Developer;I+believe%2C+It's+never+over+till+it's+over." />
 </p>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
