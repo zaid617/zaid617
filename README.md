@@ -36,7 +36,6 @@
 <hr>
 
 <p align="center">
-  <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
 <img  height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid617&show_icons=true&locale=en&layout=compact" alt="tanv33" />
 </p>
 
