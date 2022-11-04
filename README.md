@@ -41,9 +41,13 @@
 
 <hr>
 
+<br>
+
 <p align="center">
-<img  height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid617&show_icons=true&locale=en&layout=compact" alt="tanv33" />
+<img  height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid617&show_icons=true&locale=en&layout=compact" alt="zaid617" />
 </p>
+
+<br>
 
 <hr>
 
