@@ -20,10 +20,7 @@
 - ⚡ Fun fact **I think I live in my own world**
 
 <br>
-<br>
 <hr>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid617&show_icons=true&locale=en&layout=compact" alt="zaid617" /></p>
 <br>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=zaid617&" alt="muhammadsaad25" /></p>
 <br>
