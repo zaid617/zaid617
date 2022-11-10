@@ -23,8 +23,11 @@
 <br>
 <hr>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaid617" alt="zaid617" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaid617&show_icons=true&locale=en&layout=compact" alt="zaid617" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaid617&show_icons=true&locale=en" alt="zaid617" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaid617&" alt="muhammadsaad25" /></p>
 <br>
 <hr>
 <br>
