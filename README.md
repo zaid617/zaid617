@@ -21,10 +21,6 @@
 
 <br>
 <hr>
-<br>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=zaid617&" alt="muhammadsaad25" /></p>
-<br>
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
