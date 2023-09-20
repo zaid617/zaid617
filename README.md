@@ -4,7 +4,7 @@
 </p>
 
 <img align="right" alt="Coding" width="400" style="border-radius:20px;"
-	src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif">
+	src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 style="margin-top: 4px;">I LOVE TO CONTRIBUTE OPEN SOURCE!</h3>
 
